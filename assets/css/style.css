@@ -596,8 +596,8 @@ section {
 
 .section-title p {
   margin-bottom: 0;
-  color: #777777;
-  font-size: 15px;
+  color: #111111;
+  font-size: 17px;
 }
 
 /*--------------------------------------------------------------
@@ -729,6 +729,10 @@ section {
 
 .cta p {
   color: #fff;
+  position: relative;
+  top: 80%;
+  transform: translateY(-1%);
+  align: center;
 }
 
 .cta .cta-btn {
